@@ -4,7 +4,7 @@ Welcome to the team! Add your favorite candy bar next to your name.
 
 | Name | Favorite Candy Bar |
 |------|-------------------|
-| Khalil | |
+| Khalil | Snickers |
 | Gaby | |
 | Yvette | |
 | Alex | |
