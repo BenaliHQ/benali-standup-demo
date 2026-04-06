@@ -5,7 +5,7 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Name | Favorite Candy Bar |
 |------|-------------------|
 | Khalil | |
-| Gaby | |
+| Gaby | Butterfinger |
 | Yvette | |
 | Alex | |
 | Luciano | |
