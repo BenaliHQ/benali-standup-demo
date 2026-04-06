@@ -11,5 +11,5 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Luciano | |
 | Reese | |
 | Arra | |
-| Vivek | |
+| Vivek | Kit Kat |
 | Jenny | |
