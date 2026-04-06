@@ -10,6 +10,6 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Alex | |
 | Luciano | Snickers |
 | Reese | |
-| Arra | |
+| Arra | KitKat |
 | Vivek | |
 | Jenny | Reese's Peanut Butter Cup |
