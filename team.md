@@ -7,7 +7,7 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Khalil | |
 | Gaby | |
 | Yvette | |
-| Alex | |
+| Alex | Manicho |
 | Luciano | |
 | Reese | |
 | Arra | |
