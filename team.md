@@ -10,6 +10,6 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Alex | |
 | Luciano | |
 | Reese | |
-| Arra | |
+| Arra | KitKat |
 | Vivek | |
 | Jenny | |
