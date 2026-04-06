@@ -12,4 +12,4 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Reese | |
 | Arra | |
 | Vivek | |
-| Jenny | |
+| Jenny | Reese's Peanut Butter Cup |
