@@ -8,7 +8,7 @@ Welcome to the team! Add your favorite candy bar next to your name.
 | Gaby | |
 | Yvette | |
 | Alex | |
-| Luciano | |
+| Luciano | Snickers |
 | Reese | |
 | Arra | |
 | Vivek | |
