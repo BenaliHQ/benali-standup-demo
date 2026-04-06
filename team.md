@@ -6,7 +6,7 @@ Welcome to the team! Add your favorite candy bar next to your name.
 |------|-------------------|
 | Khalil | Snickers |
 | Gaby | |
-| Yvette | |
+| Yvette | Reese's Peanut Butter Cups |
 | Alex | |
 | Luciano | Snickers |
 | Reese | |
